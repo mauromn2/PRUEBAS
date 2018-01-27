@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Version 2");
+            Console.WriteLine("Version 2b");
             Console.WriteLine("Presionar cualquier tecla para salir:");
             Console.ReadKey();
             Console.Beep();
