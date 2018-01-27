@@ -10,8 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Version 3");
-            Console.WriteLine("Agrego linea en Version 3");
+            Console.WriteLine("Version 4");
+            // Console.WriteLine("Borro linea en Version 3");
+            Console.WriteLine("Agrego linea en Version 4");
             Console.WriteLine("Presionar cualquier tecla para salir:");
             Console.ReadKey();
             Console.Beep();
